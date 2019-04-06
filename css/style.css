@@ -1,0 +1,75 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    background-color: #CCCCCC;    
+    background-image: url(../images/dynamic-style.png);
+}
+.navbar{
+    margin:0 auto;
+    background-color: #ffffff;
+    padding:0 0 0 35px;
+    border-bottom: 3px solid #dddddd;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+  
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 26px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+ }
+.navbar-nav li{
+    padding-right: 25px;
+}
+.nav-link{
+    font-size: 18px !important;
+    color: #777777;   
+}
+.container{
+    background-color: #ffffff;
+    padding-left: 30px;
+    margin-left:50px;
+    margin-top: 50px;
+    
+}
+.display-4{
+    color: #4aaaa5;
+    font-size: 40px;
+    padding: 20px;
+    border-bottom: 3px solid #dddddd;
+}
+.padding{
+    padding-top: 15px;
+}
+footer{
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+    background-color: #666666;
+    color: #dddddd;
+    font-size: 15px;
+    padding-top: 15px;
+    margin-top: 75px;
+}
+#submit{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 5px 15px;
+    font-size: 20px;
+}
+.card-body{
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    position: relative;
+    top: -10px;
+}
+.card{
+    border: 0px;
+}
+
